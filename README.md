@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-  <a href="#"><img height="25" src="https://komarev.com/ghpvc/?username=TrickAndrade&label=Profile%20Views&color=0165f1&style=flat" alt="TrickAndrade"/></a> 
+  <a href="#"><img height="25" src="https://komarev.com/ghpvc/?username=PedroVentramelli12&label=Profile%20Views&color=0165f1&style=flat" alt="TrickAndrade"/></a> 
 </div>
